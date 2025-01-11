@@ -16,7 +16,7 @@
 
 下面这个应该是牛客网还是中文社区给的学习路线吧，仅供参考。
 
-![Go后端学习路线](C:\Users\BuBu\Desktop\桌面缓存区\工作室\Go后端\Go后端学习路线.jpeg)
+![Go后端学习路线](https://github.com/BlockChain-Era-Studio/GoLearning/blob/main/%E5%9B%BE%E7%89%87/ReadMe/Go%E5%90%8E%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.jpeg)
 
 下面我简单谈一下我这一年踩坑得出的go语言的学习路线：
 
